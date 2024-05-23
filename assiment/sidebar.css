@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 15%;
+    background-color: rgb(225, 225, 225)
+}
+.right{
+    width: 50%;
+    background-color: rgb(225, 225, 225)
+}
+.sideleft{
+    width: 30%;
+   
+    margin-right: 10px;
+}
+.top{
+    background-color:rgb(225, 225, 225) ;
+    height: 20vh;
+}
+.button{
+    background-color:rgb(225, 225, 225) ;
+    height: 10vh;
+    margin-top: 10px;
+}
+.sideright{
+    height: 50vh;
+    width: 70%;
+    background-color:rgb(225, 225, 225) ;
+  
+}
+.side{
+    display: flex;
+    margin-top: 10px;
+}
+
+.footer{
+    background-color:rgb(225, 225, 225) ;
+    height: 15vh;
+    margin-top: 10px;
+}

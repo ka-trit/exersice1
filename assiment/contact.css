@@ -1,0 +1,54 @@
+.header{
+    background-color: gray;
+    height: 30px;
+}
+.sidebarleft{
+    margin-top: 10px;
+    width: 80%;
+}
+.sidebutton{
+    margin-top: 10px;
+    width: 30%;
+    background-color: blue;
+}
+.sidebartop{
+    background-color: gray;
+    height: 10vh;
+}
+.sidebarcenter{
+    background-color: gray;
+    margin-top: 10px;
+    height: 50vh;
+}
+.sidebutton{
+    background-color: gray;
+    margin-top: 10px;
+    width: 20%;
+    height: 10vh;
+}
+
+.sidebar{
+    display: flex;
+  
+}
+.sidebaright{
+    margin-left: 10px;
+    width: 20%;
+
+}
+.srt{
+    background-color: gray;
+    height: 20vh;
+}
+.srt{
+    background-color: gray;
+    height: 20vh;
+    margin-top: 10px;
+}
+.footer{
+    margin-top: 10px;
+    width: 100%;
+    background-color: gray;
+   height: 100px;
+  
+}
