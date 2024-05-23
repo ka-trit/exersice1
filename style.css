@@ -1,32 +1,33 @@
 body{
     padding: 0%;
+
   
     
 }
 .content{
     width: 100%;
-    background-color: rgb(245, 241, 241);
+  
 }
 .menu{
-    background-color: white;
+    background-color:  rgba(120, 115, 115, 0.634);
     display: flex;
     justify-content: space-between;
     height: 50px;
 }
 .right{
     width:20% ;
-    background-color: green;
+    background-color: rgba(255, 255, 255, 0.318);
 }
 .left{
     width:30% ;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     justify-content: flex-end;
 }
 .contentmain{
     width: 100%;
     height: 250px;
     margin-top: 10px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 
 
 }
@@ -38,12 +39,12 @@ body{
 }
 .conright{
     width:20% ;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .conleft{
     width:80% ;
     margin-left: 10px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     justify-content: flex-end;
 }
 .foot{
@@ -53,12 +54,12 @@ body{
 }
 .footright{
     width:80% ;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .footleft{
     width:20% ;
     margin-left: 10px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     justify-content: flex-end;
 }
 .side{
@@ -67,11 +68,11 @@ body{
     margin-top: 10px;
 }
 .sideleft{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     width: 85%;
 }
 .sideright{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-left: 10px;
     width: 15%;
 
@@ -80,7 +81,7 @@ body{
     margin-top: 10px;
     width: 100%;
     height: 50px;
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .bar{
     margin-top: 10px;
@@ -90,7 +91,7 @@ body{
 .sidebarleft1{
     width: 10%;
     height: 300px;
-    background-color: grey;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .card3{
     width: 100%;
@@ -106,11 +107,11 @@ body{
     margin-left: 10px;
     width: 5%;
    
-    background-color: black;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .card2{
     width: 95%;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-left: 10px;
 }
 .sidebarright1{
@@ -120,12 +121,12 @@ body{
 }
 .top{
     height: 200px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .button{
     height: 100px;
     margin-top: 10px;
-    background-color: rgb(26, 0, 128);
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .grid1{
     height: 150px;
@@ -136,15 +137,15 @@ body{
 .gright{
     
     width: 20%;
-    background-color: blue;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .gleft{
     margin-left: 10px;
     width: 20%;
-    background-color: green;
+    background-color: rgba(120, 115, 115, 0.634);
 }
 .gmiddle{
-    background-color: black;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-left: 10px;
     width: 60%;
 }
@@ -153,7 +154,7 @@ body{
     margin-top: 10px;
 }
 .g2{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     width: 50%;
     height: 200px;
 
@@ -162,48 +163,48 @@ body{
     margin-left: 10px;
     width: 20%;
     height: 200px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .g4{
     margin-left: 10px;
     width: 30%;
     height: 200px;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .grid3{
     display: flex;
     margin-top: 10px;
 }
 .g5{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     width: 30%;
     height: 250px;
 }
 .g6{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     width: 40%;
     height: 250px;
     margin-left: 10px;
 }
 .g7{
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     width: 30%;
     margin-left: 10px;
     height: 250px;
 }
 .mleft{
     width: 15%;
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .mright{
     width: 30%;
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
 
 }
 .contop{
     width: 100%;
     height: 6vh;
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
 }
 .concenter{
     margin-top: 10px;
@@ -213,7 +214,7 @@ body{
 .container-right ,.container-left{
     width: 30%;
     height: 50vh;
-    background-color: rgb(234, 36, 36);
+    background-color:  rgba(120, 115, 115, 0.634);
  
 }
 .container-right{
@@ -224,11 +225,11 @@ body{
     margin-right:10px ;
     width: 40%;
     height: 50vh;
-    background-color: green;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-left: 10px;
 }
 .foot3{
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
    height: 10px;
 }
 .contop{
@@ -236,7 +237,7 @@ body{
     height: 30vh;
 }
 .footer2{
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-top: 10px;
     height: 10vh ;
 }

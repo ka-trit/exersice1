@@ -4,11 +4,11 @@
 }
 .left{
     width: 15%;
-    background-color: rgb(225, 225, 225)
+    background-color: rgba(120, 115, 115, 0.634);
 }
 .right{
     width: 50%;
-    background-color: rgb(225, 225, 225)
+    background-color: rgba(120, 115, 115, 0.634);
 }
 .sideleft{
     width: 30%;
@@ -16,18 +16,18 @@
     margin-right: 10px;
 }
 .top{
-    background-color:rgb(225, 225, 225) ;
+    background-color:rgba(120, 115, 115, 0.634);
     height: 20vh;
 }
 .button{
-    background-color:rgb(225, 225, 225) ;
+    background-color:rgba(120, 115, 115, 0.634);
     height: 10vh;
     margin-top: 10px;
 }
 .sideright{
     height: 50vh;
     width: 70%;
-    background-color:rgb(225, 225, 225) ;
+    background-color:rgba(120, 115, 115, 0.634);
   
 }
 .side{
@@ -36,7 +36,7 @@
 }
 
 .footer{
-    background-color:rgb(225, 225, 225) ;
+    background-color:rgba(120, 115, 115, 0.634); ;
     height: 15vh;
     margin-top: 10px;
 }

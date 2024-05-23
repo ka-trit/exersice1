@@ -1,5 +1,5 @@
 .header{
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
     height: 30px;
 }
 .sidebarleft{
@@ -9,19 +9,19 @@
 .sidebutton{
     margin-top: 10px;
     width: 30%;
-    background-color: blue;
+    background-color: rgba(120, 115, 115, 0.634);
 }
 .sidebartop{
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
     height: 10vh;
 }
 .sidebarcenter{
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
     margin-top: 10px;
     height: 50vh;
 }
 .sidebutton{
-    background-color: gray;
+    background-color:  rgba(120, 115, 115, 0.634);
     margin-top: 10px;
     width: 20%;
     height: 10vh;
@@ -37,18 +37,18 @@
 
 }
 .srt{
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
     height: 20vh;
 }
 .srt{
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
     height: 20vh;
     margin-top: 10px;
 }
 .footer{
     margin-top: 10px;
     width: 100%;
-    background-color: gray;
+    background-color: rgba(120, 115, 115, 0.634);
    height: 100px;
   
 }
