@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+  
+    overflow: hidden;
+    
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+ul, li, a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.ul{
+    list-style-type: none;
+}
+.li{
+    list-style-type: none;
+}
+ul li:hover {
+    background-color: #dfdfdf;
+    color: white;
+  }
+
+
+
+.center{
+    display: flex;
+
+}
+li{
+    padding: 30px;
+}
+
+.ecom{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+.left,.right{
+    display: flex;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin: auto;
+
+}
+
+
